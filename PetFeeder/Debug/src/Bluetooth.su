@@ -1,0 +1,13 @@
+../src/Bluetooth.c:73:6:bluetooth_rx_handler	32	static
+../src/Bluetooth.c:96:6:bluetooth_tx_handler	16	static
+../src/Bluetooth.c:109:6:bluetooh_dma_start_tx	48	static
+../src/Bluetooth.c:154:20:bluetooh_get_last_package	24	static
+../src/Bluetooth.c:167:6:bluetooh_pop_package	32	static
+../src/Bluetooth.c:178:6:bluetooh_put_package	24	static
+../src/Bluetooth.c:194:6:bluetooth_pin_config	8	static
+../src/Bluetooth.c:218:6:bluetooth_uart_config	8	static
+../src/Bluetooth.c:235:6:bluetooth_tx_dma_config	8	static
+../src/Bluetooth.c:255:6:bluetooth_rx_dma_config	8	static
+../src/Bluetooth.c:279:6:bluetooth_init	16	static
+../src/Bluetooth.c:326:5:bluetooh_send_package	24	static
+../src/Bluetooth.c:384:5:bluetooth_read_package	48	static
