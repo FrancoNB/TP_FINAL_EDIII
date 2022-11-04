@@ -28,7 +28,7 @@ void watersensor_handler(void)
 {
 	static uint8_t i = 0;
 
-	watersensor_measurings[i] = ADC_ChannelGetData(LPC_ADC,  watersensor_adc.conversion_rate);
+	watersensor_measurings[i] = ADC_ChannelGetData(LPC_ADC, (uint8_t)watersensor_adc.adc_channel);
 
 	if(i < WATERSENSOR_SAMPLES_PROM)
 		i++;

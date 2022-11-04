@@ -30,7 +30,7 @@ void init(void)
 	bluetooth_init(LPC_UART0, BLUETOOTH_DMA_RX_CHANNEL);
 	loadcell_init(LOADCELL_PORT, LOADCELL_DT_PIN, LOADCELL_SCK_PIN, LOADCELL_GAIN, LPC_TIM2);
 	keyboard_init(KEYBOARD_PORT, KEYBOARD_COLUMNS_PIN, KEYBOARD_ROWS_PIN, LPC_TIM0);
-	steppmotor_init(STEPPMOTOR_PORT, STEPPMOTOR_IN1, STEPPMOTOR_IN2, STEPPMOTOR_IN3, STEPPMOTOR_IN4, LPC_TIM3);
+	stepmotor_init(STEPPMOTOR_PORT, STEPPMOTOR_IN1, STEPPMOTOR_IN2, STEPPMOTOR_IN3, STEPPMOTOR_IN4, LPC_TIM3);
 	watersensor_init(WATERSENSOR_ADC_CHANNEL);
 
 	bluetooh_send_package(BT_PACKAGE_KEYBOARD_CANCEL, NULL);
@@ -64,7 +64,7 @@ void config_control_timer(void)
 
 void control_steppmotor(void)
 {
-	if(is_steppmotor_in_rotation())
+	if(is_stepmotor_in_rotation())
 		return;
 
 	if(send_gate_state_flag)
@@ -76,9 +76,9 @@ void control_steppmotor(void)
 	if(change_gate_state_flag)
 	{
 		if(open_gate_flag)
-			steppmotor_start_move(STEPOF135DEG, CLOCKWISE);
+			stepmotor_start_move(STEPOF135DEG, CLOCKWISE);
 		else
-			steppmotor_start_move(STEPOF135DEG, ANTICLOCKWISE);
+			stepmotor_start_move(STEPOF135DEG, ANTICLOCKWISE);
 
 		open_gate_flag = !open_gate_flag;
 		change_gate_state_flag = 0;

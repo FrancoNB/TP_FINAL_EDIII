@@ -10,7 +10,7 @@
 #include "TIMHandler.h"
 #include "Bluetooth.h"
 #include "Keyboard.h"
-#include "SteppMotor.h"
+#include "StepMotor.h"
 
 #define LOADCELL_PORT 					(uint8_t)0
 #define LOADCELL_DT_PIN 				(uint8_t)0

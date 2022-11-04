@@ -18,7 +18,7 @@ src/PetFeeder.o src/PetFeeder.d: ../src/PetFeeder.c \
  /home/franco/Documentos/Trabajo\ Final/CMSISv2p00_LPC17xx/Drivers/inc/lpc17xx_uart.h \
  /home/franco/Documentos/Trabajo\ Final/CMSISv2p00_LPC17xx/Drivers/inc/lpc17xx_gpdma.h \
  ../src/../inc/DMAHandler.h ../src/../inc/Keyboard.h \
- ../src/../inc/SteppMotor.h
+ ../src/../inc/StepMotor.h
 ../src/../inc/PetFeeder.h:
 /home/franco/Documentos/Trabajo\ Final/CMSISv2p00_LPC17xx/inc/LPC17xx.h:
 /home/franco/Documentos/Trabajo\ Final/CMSISv2p00_LPC17xx/inc/core_cm3.h:
@@ -41,4 +41,4 @@ src/PetFeeder.o src/PetFeeder.d: ../src/PetFeeder.c \
 /home/franco/Documentos/Trabajo\ Final/CMSISv2p00_LPC17xx/Drivers/inc/lpc17xx_gpdma.h:
 ../src/../inc/DMAHandler.h:
 ../src/../inc/Keyboard.h:
-../src/../inc/SteppMotor.h:
+../src/../inc/StepMotor.h:

@@ -10,7 +10,7 @@ C_SRCS += \
 ../src/Keyboard.c \
 ../src/LoadCell.c \
 ../src/PetFeeder.c \
-../src/SteppMotor.c \
+../src/StepMotor.c \
 ../src/TIMHandler.c \
 ../src/Utils.c \
 ../src/WaterSensor.c \
@@ -24,7 +24,7 @@ C_DEPS += \
 ./src/Keyboard.d \
 ./src/LoadCell.d \
 ./src/PetFeeder.d \
-./src/SteppMotor.d \
+./src/StepMotor.d \
 ./src/TIMHandler.d \
 ./src/Utils.d \
 ./src/WaterSensor.d \
@@ -38,7 +38,7 @@ OBJS += \
 ./src/Keyboard.o \
 ./src/LoadCell.o \
 ./src/PetFeeder.o \
-./src/SteppMotor.o \
+./src/StepMotor.o \
 ./src/TIMHandler.o \
 ./src/Utils.o \
 ./src/WaterSensor.o \
@@ -58,7 +58,7 @@ src/%.o: ../src/%.c src/subdir.mk
 clean: clean-src
 
 clean-src:
-	-$(RM) ./src/ADCHandler.d ./src/ADCHandler.o ./src/Bluetooth.d ./src/Bluetooth.o ./src/DMAHandler.d ./src/DMAHandler.o ./src/Keyboard.d ./src/Keyboard.o ./src/LoadCell.d ./src/LoadCell.o ./src/PetFeeder.d ./src/PetFeeder.o ./src/SteppMotor.d ./src/SteppMotor.o ./src/TIMHandler.d ./src/TIMHandler.o ./src/Utils.d ./src/Utils.o ./src/WaterSensor.d ./src/WaterSensor.o ./src/cr_startup_lpc175x_6x.d ./src/cr_startup_lpc175x_6x.o ./src/crp.d ./src/crp.o
+	-$(RM) ./src/ADCHandler.d ./src/ADCHandler.o ./src/Bluetooth.d ./src/Bluetooth.o ./src/DMAHandler.d ./src/DMAHandler.o ./src/Keyboard.d ./src/Keyboard.o ./src/LoadCell.d ./src/LoadCell.o ./src/PetFeeder.d ./src/PetFeeder.o ./src/StepMotor.d ./src/StepMotor.o ./src/TIMHandler.d ./src/TIMHandler.o ./src/Utils.d ./src/Utils.o ./src/WaterSensor.d ./src/WaterSensor.o ./src/cr_startup_lpc175x_6x.d ./src/cr_startup_lpc175x_6x.o ./src/crp.d ./src/crp.o
 
 .PHONY: clean-src
 

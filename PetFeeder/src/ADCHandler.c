@@ -1,7 +1,5 @@
 #include "../inc/ADCHandler.h"
 
-enum {FREE = 0, TAKEN = !FREE};
-
 static struct
 {
 	void (*channel0)(void);
@@ -13,8 +11,6 @@ static struct
 	void (*channel6)(void);
 	void (*channel7)(void);
 } adc_channel_handler = {NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL};
-
-static uint8_t adc_channel_status[ADC_TOTAL_CHANNELS] = {FREE};
 
 void ADC_IRQHandler (void)
 {
@@ -76,9 +72,6 @@ int adc_add_handler(uint8_t channel, void (*handler)(void))
 	if(channel >= ADC_TOTAL_CHANNELS)
 		return 1;
 
-	if(adc_channel_status[channel] != FREE)
-		return -1;
-
 	switch (channel)
 	{
 		case 0:
@@ -106,8 +99,6 @@ int adc_add_handler(uint8_t channel, void (*handler)(void))
 			adc_channel_handler.channel7 = handler;
 			break;
 	}
-
-	adc_channel_status[channel] = TAKEN;
 
 	return 0;
 }
@@ -144,8 +135,6 @@ int adc_remove_handler(uint8_t channel)
 			adc_channel_handler.channel7 = NULL;
 			break;
 	}
-
-	adc_channel_status[channel] = FREE;
 
 	return 0;
 }

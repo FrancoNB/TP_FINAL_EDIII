@@ -121,7 +121,7 @@ Discarded input sections
  .data          0x0000000000000000        0x0 ./src/ADCHandler.o
  .bss           0x0000000000000000        0x0 ./src/ADCHandler.o
  .text.adc_remove_handler
-                0x0000000000000000       0x9c ./src/ADCHandler.o
+                0x0000000000000000       0x90 ./src/ADCHandler.o
  .group         0x0000000000000000        0xc ./src/Bluetooth.o
  .group         0x0000000000000000        0xc ./src/Bluetooth.o
  .group         0x0000000000000000        0xc ./src/Bluetooth.o
@@ -295,41 +295,41 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x2f7 ./src/PetFeeder.o
  .debug_macro   0x0000000000000000       0x10 ./src/PetFeeder.o
  .debug_macro   0x0000000000000000      0x2ae ./src/PetFeeder.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .group         0x0000000000000000        0xc ./src/SteppMotor.o
- .text          0x0000000000000000        0x0 ./src/SteppMotor.o
- .data          0x0000000000000000        0x0 ./src/SteppMotor.o
- .bss           0x0000000000000000        0x0 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000      0xa7e ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x1c ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x2e ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x10 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000      0x12e ./src/SteppMotor.o
- .debug_macro   0x0000000000000000      0x5b3 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x18 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000      0x7af ./src/SteppMotor.o
- .debug_macro   0x0000000000000000      0x2c7 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x63 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x40 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000      0x145 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0xea ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x22 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0xc4 ./src/SteppMotor.o
- .debug_macro   0x0000000000000000       0x28 ./src/SteppMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .group         0x0000000000000000        0xc ./src/StepMotor.o
+ .text          0x0000000000000000        0x0 ./src/StepMotor.o
+ .data          0x0000000000000000        0x0 ./src/StepMotor.o
+ .bss           0x0000000000000000        0x0 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000      0xa7e ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x1c ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x2e ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x10 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000      0x12e ./src/StepMotor.o
+ .debug_macro   0x0000000000000000      0x5b3 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x18 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000      0x7af ./src/StepMotor.o
+ .debug_macro   0x0000000000000000      0x2c7 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x63 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x40 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000      0x145 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0xea ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x22 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0xc4 ./src/StepMotor.o
+ .debug_macro   0x0000000000000000       0x28 ./src/StepMotor.o
  .group         0x0000000000000000        0xc ./src/TIMHandler.o
  .group         0x0000000000000000        0xc ./src/TIMHandler.o
  .group         0x0000000000000000        0xc ./src/TIMHandler.o
@@ -1133,7 +1133,7 @@ LOAD ./src/DMAHandler.o
 LOAD ./src/Keyboard.o
 LOAD ./src/LoadCell.o
 LOAD ./src/PetFeeder.o
-LOAD ./src/SteppMotor.o
+LOAD ./src/StepMotor.o
 LOAD ./src/TIMHandler.o
 LOAD ./src/Utils.o
 LOAD ./src/WaterSensor.o
@@ -1158,7 +1158,7 @@ END GROUP
                 0x0000000020084000                __top_RamAHB32 = 0x20084000
                 0x0000000020084000                __top_RAM2 = 0x20084000
 
-.text           0x0000000000000000     0x4920
+.text           0x0000000000000000     0x4900
  FILL mask 0xff
                 0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
  *(.isr_vector)
@@ -1167,16 +1167,16 @@ END GROUP
                 0x00000000000000cc                . = ALIGN (0x4)
                 0x00000000000000cc                __section_table_start = .
                 0x00000000000000cc                __data_section_table = .
-                0x00000000000000cc        0x4 LONG 0x4920 LOADADDR (.data)
+                0x00000000000000cc        0x4 LONG 0x4900 LOADADDR (.data)
                 0x00000000000000d0        0x4 LONG 0x10000000 ADDR (.data)
                 0x00000000000000d4        0x4 LONG 0x28 SIZEOF (.data)
-                0x00000000000000d8        0x4 LONG 0x4920 LOADADDR (.data_RAM2)
+                0x00000000000000d8        0x4 LONG 0x4900 LOADADDR (.data_RAM2)
                 0x00000000000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
                 0x00000000000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
                 0x00000000000000e4                __data_section_table_end = .
                 0x00000000000000e4                __bss_section_table = .
                 0x00000000000000e4        0x4 LONG 0x10000028 ADDR (.bss)
-                0x00000000000000e8        0x4 LONG 0x264 SIZEOF (.bss)
+                0x00000000000000e8        0x4 LONG 0x25c SIZEOF (.bss)
                 0x00000000000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
                 0x00000000000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
                 0x00000000000000f4                __bss_section_table_end = .
@@ -1240,492 +1240,492 @@ END GROUP
                 0x0000000000000334      0x114 ./src/ADCHandler.o
                 0x0000000000000334                ADC_IRQHandler
  .text.adc_add_handler
-                0x0000000000000448       0xb0 ./src/ADCHandler.o
+                0x0000000000000448       0x94 ./src/ADCHandler.o
                 0x0000000000000448                adc_add_handler
  .text.bluetooth_rx_handler
-                0x00000000000004f8       0xa0 ./src/Bluetooth.o
-                0x00000000000004f8                bluetooth_rx_handler
+                0x00000000000004dc       0xa0 ./src/Bluetooth.o
+                0x00000000000004dc                bluetooth_rx_handler
  .text.bluetooth_tx_handler
-                0x0000000000000598       0x48 ./src/Bluetooth.o
-                0x0000000000000598                bluetooth_tx_handler
+                0x000000000000057c       0x48 ./src/Bluetooth.o
+                0x000000000000057c                bluetooth_tx_handler
  .text.bluetooh_dma_start_tx
-                0x00000000000005e0      0x124 ./src/Bluetooth.o
-                0x00000000000005e0                bluetooh_dma_start_tx
+                0x00000000000005c4      0x124 ./src/Bluetooth.o
+                0x00000000000005c4                bluetooh_dma_start_tx
  .text.bluetooh_get_last_package
-                0x0000000000000704       0x36 ./src/Bluetooth.o
-                0x0000000000000704                bluetooh_get_last_package
+                0x00000000000006e8       0x36 ./src/Bluetooth.o
+                0x00000000000006e8                bluetooh_get_last_package
  .text.bluetooh_pop_package
-                0x000000000000073a       0x3e ./src/Bluetooth.o
-                0x000000000000073a                bluetooh_pop_package
+                0x000000000000071e       0x3e ./src/Bluetooth.o
+                0x000000000000071e                bluetooh_pop_package
  .text.bluetooh_put_package
-                0x0000000000000778       0x34 ./src/Bluetooth.o
-                0x0000000000000778                bluetooh_put_package
+                0x000000000000075c       0x34 ./src/Bluetooth.o
+                0x000000000000075c                bluetooh_put_package
  .text.bluetooth_pin_config
-                0x00000000000007ac       0x70 ./src/Bluetooth.o
-                0x00000000000007ac                bluetooth_pin_config
+                0x0000000000000790       0x70 ./src/Bluetooth.o
+                0x0000000000000790                bluetooth_pin_config
  .text.bluetooth_uart_config
-                0x000000000000081c       0x6c ./src/Bluetooth.o
-                0x000000000000081c                bluetooth_uart_config
+                0x0000000000000800       0x6c ./src/Bluetooth.o
+                0x0000000000000800                bluetooth_uart_config
  .text.bluetooth_tx_dma_config
-                0x0000000000000888       0x80 ./src/Bluetooth.o
-                0x0000000000000888                bluetooth_tx_dma_config
+                0x000000000000086c       0x80 ./src/Bluetooth.o
+                0x000000000000086c                bluetooth_tx_dma_config
  .text.bluetooth_rx_dma_config
-                0x0000000000000908       0x84 ./src/Bluetooth.o
-                0x0000000000000908                bluetooth_rx_dma_config
+                0x00000000000008ec       0x84 ./src/Bluetooth.o
+                0x00000000000008ec                bluetooth_rx_dma_config
  .text.bluetooth_init
-                0x000000000000098c      0x11c ./src/Bluetooth.o
-                0x000000000000098c                bluetooth_init
+                0x0000000000000970      0x11c ./src/Bluetooth.o
+                0x0000000000000970                bluetooth_init
  .text.bluetooh_send_package
-                0x0000000000000aa8      0x100 ./src/Bluetooth.o
-                0x0000000000000aa8                bluetooh_send_package
+                0x0000000000000a8c      0x100 ./src/Bluetooth.o
+                0x0000000000000a8c                bluetooh_send_package
  .text.bluetooth_read_package
-                0x0000000000000ba8       0x4c ./src/Bluetooth.o
-                0x0000000000000ba8                bluetooth_read_package
+                0x0000000000000b8c       0x4c ./src/Bluetooth.o
+                0x0000000000000b8c                bluetooth_read_package
  .text.NVIC_EnableIRQ
-                0x0000000000000bf4       0x30 ./src/DMAHandler.o
+                0x0000000000000bd8       0x30 ./src/DMAHandler.o
  .text.NVIC_DisableIRQ
-                0x0000000000000c24       0x34 ./src/DMAHandler.o
+                0x0000000000000c08       0x34 ./src/DMAHandler.o
  .text.DMA_IRQHandler
-                0x0000000000000c58      0x1c4 ./src/DMAHandler.o
-                0x0000000000000c58                DMA_IRQHandler
+                0x0000000000000c3c      0x1c4 ./src/DMAHandler.o
+                0x0000000000000c3c                DMA_IRQHandler
  .text.dma_add_handler
-                0x0000000000000e1c       0xb4 ./src/DMAHandler.o
-                0x0000000000000e1c                dma_add_handler
+                0x0000000000000e00       0xb4 ./src/DMAHandler.o
+                0x0000000000000e00                dma_add_handler
  .text.dma_remove_handler
-                0x0000000000000ed0       0xac ./src/DMAHandler.o
-                0x0000000000000ed0                dma_remove_handler
+                0x0000000000000eb4       0xac ./src/DMAHandler.o
+                0x0000000000000eb4                dma_remove_handler
  .text.dma_get_free_channel
-                0x0000000000000f7c       0x38 ./src/DMAHandler.o
-                0x0000000000000f7c                dma_get_free_channel
+                0x0000000000000f60       0x38 ./src/DMAHandler.o
+                0x0000000000000f60                dma_get_free_channel
  .text.is_dma_full
-                0x0000000000000fb4       0x38 ./src/DMAHandler.o
-                0x0000000000000fb4                is_dma_full
+                0x0000000000000f98       0x38 ./src/DMAHandler.o
+                0x0000000000000f98                is_dma_full
  .text.is_dma_free
-                0x0000000000000fec       0x38 ./src/DMAHandler.o
-                0x0000000000000fec                is_dma_free
+                0x0000000000000fd0       0x38 ./src/DMAHandler.o
+                0x0000000000000fd0                is_dma_free
  .text.NVIC_EnableIRQ
-                0x0000000000001024       0x30 ./src/Keyboard.o
+                0x0000000000001008       0x30 ./src/Keyboard.o
  .text.EINT3_IRQHandler
-                0x0000000000001054       0x94 ./src/Keyboard.o
-                0x0000000000001054                EINT3_IRQHandler
+                0x0000000000001038       0x94 ./src/Keyboard.o
+                0x0000000000001038                EINT3_IRQHandler
  .text.keyboard_scan
-                0x00000000000010e8      0x140 ./src/Keyboard.o
-                0x00000000000010e8                keyboard_scan
+                0x00000000000010cc      0x140 ./src/Keyboard.o
+                0x00000000000010cc                keyboard_scan
  .text.keyboard_config_pin
-                0x0000000000001228       0xf0 ./src/Keyboard.o
-                0x0000000000001228                keyboard_config_pin
+                0x000000000000120c       0xf0 ./src/Keyboard.o
+                0x000000000000120c                keyboard_config_pin
  .text.keyboard_init
-                0x0000000000001318       0x80 ./src/Keyboard.o
-                0x0000000000001318                keyboard_init
+                0x00000000000012fc       0x80 ./src/Keyboard.o
+                0x00000000000012fc                keyboard_init
  .text.keyboard_timer_config
-                0x0000000000001398       0x70 ./src/Keyboard.o
-                0x0000000000001398                keyboard_timer_config
+                0x000000000000137c       0x70 ./src/Keyboard.o
+                0x000000000000137c                keyboard_timer_config
  .text.keyboard_get_keypress
-                0x0000000000001408       0xdc ./src/Keyboard.o
-                0x0000000000001408                keyboard_get_keypress
+                0x00000000000013ec       0xdc ./src/Keyboard.o
+                0x00000000000013ec                keyboard_get_keypress
  .text.loadcell_measuring_handler
-                0x00000000000014e4      0x128 ./src/LoadCell.o
-                0x00000000000014e4                loadcell_measuring_handler
+                0x00000000000014c8      0x128 ./src/LoadCell.o
+                0x00000000000014c8                loadcell_measuring_handler
  .text.loadcell_is_ready
-                0x000000000000160c       0x30 ./src/LoadCell.o
-                0x000000000000160c                loadcell_is_ready
+                0x00000000000015f0       0x30 ./src/LoadCell.o
+                0x00000000000015f0                loadcell_is_ready
  .text.loadcell_sck_pin_toggle
-                0x000000000000163c       0x58 ./src/LoadCell.o
-                0x000000000000163c                loadcell_sck_pin_toggle
+                0x0000000000001620       0x58 ./src/LoadCell.o
+                0x0000000000001620                loadcell_sck_pin_toggle
  .text.loadcell_calculate_tare
-                0x0000000000001694       0x90 ./src/LoadCell.o
-                0x0000000000001694                loadcell_calculate_tare
+                0x0000000000001678       0x90 ./src/LoadCell.o
+                0x0000000000001678                loadcell_calculate_tare
  .text.loadcell_calculate_scale
-                0x0000000000001724       0xa4 ./src/LoadCell.o
-                0x0000000000001724                loadcell_calculate_scale
+                0x0000000000001708       0xa4 ./src/LoadCell.o
+                0x0000000000001708                loadcell_calculate_scale
  .text.loadcell_timer_config
-                0x00000000000017c8       0x70 ./src/LoadCell.o
-                0x00000000000017c8                loadcell_timer_config
+                0x00000000000017ac       0x70 ./src/LoadCell.o
+                0x00000000000017ac                loadcell_timer_config
  .text.loadcell_pin_config
-                0x0000000000001838       0x9c ./src/LoadCell.o
-                0x0000000000001838                loadcell_pin_config
+                0x000000000000181c       0x9c ./src/LoadCell.o
+                0x000000000000181c                loadcell_pin_config
  .text.loadcell_init
-                0x00000000000018d4       0xc4 ./src/LoadCell.o
-                0x00000000000018d4                loadcell_init
+                0x00000000000018b8       0xc4 ./src/LoadCell.o
+                0x00000000000018b8                loadcell_init
  .text.loadcell_read
-                0x0000000000001998       0x6c ./src/LoadCell.o
-                0x0000000000001998                loadcell_read
+                0x000000000000197c       0x6c ./src/LoadCell.o
+                0x000000000000197c                loadcell_read
  .text.loadcell_start_tare
-                0x0000000000001a04       0x3c ./src/LoadCell.o
-                0x0000000000001a04                loadcell_start_tare
+                0x00000000000019e8       0x3c ./src/LoadCell.o
+                0x00000000000019e8                loadcell_start_tare
  .text.loadcell_start_calibrate
-                0x0000000000001a40       0x48 ./src/LoadCell.o
-                0x0000000000001a40                loadcell_start_calibrate
+                0x0000000000001a24       0x48 ./src/LoadCell.o
+                0x0000000000001a24                loadcell_start_calibrate
  .text.is_loadcell_in_tare
-                0x0000000000001a88       0x18 ./src/LoadCell.o
-                0x0000000000001a88                is_loadcell_in_tare
+                0x0000000000001a6c       0x18 ./src/LoadCell.o
+                0x0000000000001a6c                is_loadcell_in_tare
  .text.is_loadcell_in_scale
-                0x0000000000001aa0       0x18 ./src/LoadCell.o
-                0x0000000000001aa0                is_loadcell_in_scale
+                0x0000000000001a84       0x18 ./src/LoadCell.o
+                0x0000000000001a84                is_loadcell_in_scale
  .text.is_loadcell_set_scale
-                0x0000000000001ab8       0x20 ./src/LoadCell.o
-                0x0000000000001ab8                is_loadcell_set_scale
+                0x0000000000001a9c       0x20 ./src/LoadCell.o
+                0x0000000000001a9c                is_loadcell_set_scale
  .text.loadcell_start_measuring
-                0x0000000000001ad8       0x4c ./src/LoadCell.o
-                0x0000000000001ad8                loadcell_start_measuring
- .text.main     0x0000000000001b24       0x16 ./src/PetFeeder.o
-                0x0000000000001b24                main
- *fill*         0x0000000000001b3a        0x2 ff
- .text.init     0x0000000000001b3c       0xc0 ./src/PetFeeder.o
-                0x0000000000001b3c                init
+                0x0000000000001abc       0x4c ./src/LoadCell.o
+                0x0000000000001abc                loadcell_start_measuring
+ .text.main     0x0000000000001b08       0x16 ./src/PetFeeder.o
+                0x0000000000001b08                main
+ *fill*         0x0000000000001b1e        0x2 ff
+ .text.init     0x0000000000001b20       0xc0 ./src/PetFeeder.o
+                0x0000000000001b20                init
  .text.config_control_timer
-                0x0000000000001bfc       0x60 ./src/PetFeeder.o
-                0x0000000000001bfc                config_control_timer
+                0x0000000000001be0       0x60 ./src/PetFeeder.o
+                0x0000000000001be0                config_control_timer
  .text.control_steppmotor
-                0x0000000000001c5c       0xa0 ./src/PetFeeder.o
-                0x0000000000001c5c                control_steppmotor
+                0x0000000000001c40       0xa0 ./src/PetFeeder.o
+                0x0000000000001c40                control_steppmotor
  .text.control_bluetooh_rx
-                0x0000000000001cfc       0xe8 ./src/PetFeeder.o
-                0x0000000000001cfc                control_bluetooh_rx
+                0x0000000000001ce0       0xe8 ./src/PetFeeder.o
+                0x0000000000001ce0                control_bluetooh_rx
  .text.control_keyboard
-                0x0000000000001de4      0x1c8 ./src/PetFeeder.o
-                0x0000000000001de4                control_keyboard
+                0x0000000000001dc8      0x1c8 ./src/PetFeeder.o
+                0x0000000000001dc8                control_keyboard
  .text.control_timer
-                0x0000000000001fac       0xf0 ./src/PetFeeder.o
-                0x0000000000001fac                control_timer
+                0x0000000000001f90       0xf0 ./src/PetFeeder.o
+                0x0000000000001f90                control_timer
  .text.reload_control
-                0x000000000000209c       0x60 ./src/PetFeeder.o
-                0x000000000000209c                reload_control
+                0x0000000000002080       0x60 ./src/PetFeeder.o
+                0x0000000000002080                reload_control
  .text.manual_calibration
-                0x00000000000020fc       0x70 ./src/PetFeeder.o
-                0x00000000000020fc                manual_calibration
+                0x00000000000020e0       0x70 ./src/PetFeeder.o
+                0x00000000000020e0                manual_calibration
  .text.manual_reload_weigth
-                0x000000000000216c       0x7c ./src/PetFeeder.o
-                0x000000000000216c                manual_reload_weigth
- .text.steppmotor_move
-                0x00000000000021e8      0x148 ./src/SteppMotor.o
-                0x00000000000021e8                steppmotor_move
- .text.steppmotor_config_pin
-                0x0000000000002330       0x88 ./src/SteppMotor.o
-                0x0000000000002330                steppmotor_config_pin
- .text.steppmotor_config_timer
-                0x00000000000023b8       0x70 ./src/SteppMotor.o
-                0x00000000000023b8                steppmotor_config_timer
- .text.steppmotor_init
-                0x0000000000002428       0x84 ./src/SteppMotor.o
-                0x0000000000002428                steppmotor_init
- .text.steppmotor_start_move
-                0x00000000000024ac       0x68 ./src/SteppMotor.o
-                0x00000000000024ac                steppmotor_start_move
- .text.is_steppmotor_in_rotation
-                0x0000000000002514       0x14 ./src/SteppMotor.o
-                0x0000000000002514                is_steppmotor_in_rotation
+                0x0000000000002150       0x7c ./src/PetFeeder.o
+                0x0000000000002150                manual_reload_weigth
+ .text.stepmotor_move
+                0x00000000000021cc      0x148 ./src/StepMotor.o
+                0x00000000000021cc                stepmotor_move
+ .text.stepmotor_config_pin
+                0x0000000000002314       0x88 ./src/StepMotor.o
+                0x0000000000002314                stepmotor_config_pin
+ .text.stepmotor_config_timer
+                0x000000000000239c       0x70 ./src/StepMotor.o
+                0x000000000000239c                stepmotor_config_timer
+ .text.stepmotor_init
+                0x000000000000240c       0x84 ./src/StepMotor.o
+                0x000000000000240c                stepmotor_init
+ .text.stepmotor_start_move
+                0x0000000000002490       0x68 ./src/StepMotor.o
+                0x0000000000002490                stepmotor_start_move
+ .text.is_stepmotor_in_rotation
+                0x00000000000024f8       0x14 ./src/StepMotor.o
+                0x00000000000024f8                is_stepmotor_in_rotation
  .text.NVIC_EnableIRQ
-                0x0000000000002528       0x30 ./src/TIMHandler.o
+                0x000000000000250c       0x30 ./src/TIMHandler.o
  .text.TIMER0_IRQHandler
-                0x0000000000002558       0x1c ./src/TIMHandler.o
-                0x0000000000002558                TIMER0_IRQHandler
+                0x000000000000253c       0x1c ./src/TIMHandler.o
+                0x000000000000253c                TIMER0_IRQHandler
  .text.TIMER1_IRQHandler
-                0x0000000000002574       0x1c ./src/TIMHandler.o
-                0x0000000000002574                TIMER1_IRQHandler
+                0x0000000000002558       0x1c ./src/TIMHandler.o
+                0x0000000000002558                TIMER1_IRQHandler
  .text.TIMER2_IRQHandler
-                0x0000000000002590       0x1c ./src/TIMHandler.o
-                0x0000000000002590                TIMER2_IRQHandler
+                0x0000000000002574       0x1c ./src/TIMHandler.o
+                0x0000000000002574                TIMER2_IRQHandler
  .text.TIMER3_IRQHandler
-                0x00000000000025ac       0x1c ./src/TIMHandler.o
-                0x00000000000025ac                TIMER3_IRQHandler
+                0x0000000000002590       0x1c ./src/TIMHandler.o
+                0x0000000000002590                TIMER3_IRQHandler
  .text.timer_add_handler
-                0x00000000000025c8       0x80 ./src/TIMHandler.o
-                0x00000000000025c8                timer_add_handler
+                0x00000000000025ac       0x80 ./src/TIMHandler.o
+                0x00000000000025ac                timer_add_handler
  .text.int_to_ascii_str
-                0x0000000000002648      0x120 ./src/Utils.o
-                0x0000000000002648                int_to_ascii_str
+                0x000000000000262c      0x120 ./src/Utils.o
+                0x000000000000262c                int_to_ascii_str
  .text.fill_str
-                0x0000000000002768       0x3e ./src/Utils.o
-                0x0000000000002768                fill_str
- *fill*         0x00000000000027a6        0x2 ff
+                0x000000000000274c       0x3e ./src/Utils.o
+                0x000000000000274c                fill_str
+ *fill*         0x000000000000278a        0x2 ff
  .text.NVIC_EnableIRQ
-                0x00000000000027a8       0x30 ./src/WaterSensor.o
+                0x000000000000278c       0x30 ./src/WaterSensor.o
  .text.watersensor_handler
-                0x00000000000027d8       0x54 ./src/WaterSensor.o
-                0x00000000000027d8                watersensor_handler
+                0x00000000000027bc       0x50 ./src/WaterSensor.o
+                0x00000000000027bc                watersensor_handler
  .text.watersensor_config_pin
-                0x000000000000282c       0x38 ./src/WaterSensor.o
-                0x000000000000282c                watersensor_config_pin
+                0x000000000000280c       0x38 ./src/WaterSensor.o
+                0x000000000000280c                watersensor_config_pin
  .text.watersensor_config_adc
-                0x0000000000002864       0x48 ./src/WaterSensor.o
-                0x0000000000002864                watersensor_config_adc
+                0x0000000000002844       0x48 ./src/WaterSensor.o
+                0x0000000000002844                watersensor_config_adc
  .text.watersensor_init
-                0x00000000000028ac       0x34 ./src/WaterSensor.o
-                0x00000000000028ac                watersensor_init
+                0x000000000000288c       0x34 ./src/WaterSensor.o
+                0x000000000000288c                watersensor_init
  .text.watersensor_adc_decode_channel
-                0x00000000000028e0       0xe4 ./src/WaterSensor.o
-                0x00000000000028e0                watersensor_adc_decode_channel
+                0x00000000000028c0       0xe4 ./src/WaterSensor.o
+                0x00000000000028c0                watersensor_adc_decode_channel
  .text.watersensor_start_measuring
-                0x00000000000029c4       0x1c ./src/WaterSensor.o
-                0x00000000000029c4                watersensor_start_measuring
+                0x00000000000029a4       0x1c ./src/WaterSensor.o
+                0x00000000000029a4                watersensor_start_measuring
  .text.watersensor_read
-                0x00000000000029e0       0x6c ./src/WaterSensor.o
-                0x00000000000029e0                watersensor_read
+                0x00000000000029c0       0x6c ./src/WaterSensor.o
+                0x00000000000029c0                watersensor_read
  .text.SystemInit
-                0x0000000000002a4c       0xd8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
-                0x0000000000002a4c                SystemInit
+                0x0000000000002a2c       0xd8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x0000000000002a2c                SystemInit
  .text.ADC_Init
-                0x0000000000002b24       0x58 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                0x0000000000002b24                ADC_Init
+                0x0000000000002b04       0x58 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x0000000000002b04                ADC_Init
  .text.ADC_StartCmd
-                0x0000000000002b7c       0x3c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                0x0000000000002b7c                ADC_StartCmd
+                0x0000000000002b5c       0x3c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x0000000000002b5c                ADC_StartCmd
  .text.ADC_IntConfig
-                0x0000000000002bb8       0x44 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                0x0000000000002bb8                ADC_IntConfig
+                0x0000000000002b98       0x44 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x0000000000002b98                ADC_IntConfig
  .text.ADC_ChannelCmd
-                0x0000000000002bfc       0x34 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                0x0000000000002bfc                ADC_ChannelCmd
+                0x0000000000002bdc       0x34 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x0000000000002bdc                ADC_ChannelCmd
  .text.ADC_ChannelGetData
-                0x0000000000002c30       0x28 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                0x0000000000002c30                ADC_ChannelGetData
+                0x0000000000002c10       0x28 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x0000000000002c10                ADC_ChannelGetData
  .text.ADC_ChannelGetStatus
-                0x0000000000002c58       0x48 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                0x0000000000002c58                ADC_ChannelGetStatus
+                0x0000000000002c38       0x48 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x0000000000002c38                ADC_ChannelGetStatus
  .text.CLKPWR_SetPCLKDiv
-                0x0000000000002ca0       0x4c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
-                0x0000000000002ca0                CLKPWR_SetPCLKDiv
+                0x0000000000002c80       0x4c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x0000000000002c80                CLKPWR_SetPCLKDiv
  .text.CLKPWR_GetPCLKSEL
-                0x0000000000002cec       0x20 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
-                0x0000000000002cec                CLKPWR_GetPCLKSEL
+                0x0000000000002ccc       0x20 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x0000000000002ccc                CLKPWR_GetPCLKSEL
  .text.CLKPWR_GetPCLK
-                0x0000000000002d0c       0x20 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
-                0x0000000000002d0c                CLKPWR_GetPCLK
+                0x0000000000002cec       0x20 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x0000000000002cec                CLKPWR_GetPCLK
  .text.CLKPWR_ConfigPPWR
-                0x0000000000002d2c       0x34 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
-                0x0000000000002d2c                CLKPWR_ConfigPPWR
+                0x0000000000002d0c       0x34 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x0000000000002d0c                CLKPWR_ConfigPPWR
  .text.GPDMA_Init
-                0x0000000000002d60       0x38 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000002d60                GPDMA_Init
+                0x0000000000002d40       0x38 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000002d40                GPDMA_Init
  .text.GPDMA_Setup
-                0x0000000000002d98      0x1d8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000002d98                GPDMA_Setup
+                0x0000000000002d78      0x1d8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000002d78                GPDMA_Setup
  .text.GPDMA_ChannelCmd
-                0x0000000000002f70       0x1c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000002f70                GPDMA_ChannelCmd
+                0x0000000000002f50       0x1c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000002f50                GPDMA_ChannelCmd
  .text.GPDMA_IntGetStatus
-                0x0000000000002f8c       0x70 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000002f8c                GPDMA_IntGetStatus
+                0x0000000000002f6c       0x70 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000002f6c                GPDMA_IntGetStatus
  .text.GPDMA_ClearIntPending
-                0x0000000000002ffc       0x50 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000002ffc                GPDMA_ClearIntPending
+                0x0000000000002fdc       0x50 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000002fdc                GPDMA_ClearIntPending
  .text.GPIO_GetPointer
-                0x000000000000304c       0x12 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x000000000000302c       0x12 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
  .text.GPIO_SetDir
-                0x000000000000305e       0x18 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                0x000000000000305e                GPIO_SetDir
+                0x000000000000303e       0x18 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x000000000000303e                GPIO_SetDir
  .text.GPIO_SetValue
-                0x0000000000003076        0xc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                0x0000000000003076                GPIO_SetValue
+                0x0000000000003056        0xc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x0000000000003056                GPIO_SetValue
  .text.GPIO_ClearValue
-                0x0000000000003082        0xc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                0x0000000000003082                GPIO_ClearValue
+                0x0000000000003062        0xc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x0000000000003062                GPIO_ClearValue
  .text.GPIO_ReadValue
-                0x000000000000308e        0xc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                0x000000000000308e                GPIO_ReadValue
- *fill*         0x000000000000309a        0x2 ff
+                0x000000000000306e        0xc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x000000000000306e                GPIO_ReadValue
+ *fill*         0x000000000000307a        0x2 ff
  .text.GPIO_IntCmd
-                0x000000000000309c       0x50 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                0x000000000000309c                GPIO_IntCmd
+                0x000000000000307c       0x50 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x000000000000307c                GPIO_IntCmd
  .text.GPIO_ClearInt
-                0x00000000000030ec       0x28 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                0x00000000000030ec                GPIO_ClearInt
+                0x00000000000030cc       0x28 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00000000000030cc                GPIO_ClearInt
  .text.check_failed
-                0x0000000000003114        0x2 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
-                0x0000000000003114                check_failed
- *fill*         0x0000000000003116        0x2 ff
+                0x00000000000030f4        0x2 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                0x00000000000030f4                check_failed
+ *fill*         0x00000000000030f6        0x2 ff
  .text.PINSEL_ConfigPin
-                0x0000000000003118       0x7c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
-                0x0000000000003118                PINSEL_ConfigPin
+                0x00000000000030f8       0x7c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                0x00000000000030f8                PINSEL_ConfigPin
  .text.TIM_ClearIntPending
-                0x0000000000003194       0x4c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                0x0000000000003194                TIM_ClearIntPending
+                0x0000000000003174       0x4c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x0000000000003174                TIM_ClearIntPending
  .text.TIM_Init
-                0x00000000000031e0      0x164 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                0x00000000000031e0                TIM_Init
- .text.TIM_Cmd  0x0000000000003344       0x48 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                0x0000000000003344                TIM_Cmd
+                0x00000000000031c0      0x164 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x00000000000031c0                TIM_Init
+ .text.TIM_Cmd  0x0000000000003324       0x48 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x0000000000003324                TIM_Cmd
  .text.TIM_ResetCounter
-                0x000000000000338c       0x44 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                0x000000000000338c                TIM_ResetCounter
+                0x000000000000336c       0x44 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x000000000000336c                TIM_ResetCounter
  .text.TIM_ConfigMatch
-                0x00000000000033d0       0xcc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                0x00000000000033d0                TIM_ConfigMatch
+                0x00000000000033b0       0xcc /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x00000000000033b0                TIM_ConfigMatch
  .text.UART_Init
-                0x000000000000349c      0x28c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                0x000000000000349c                UART_Init
+                0x000000000000347c      0x28c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+                0x000000000000347c                UART_Init
  .text.UART_FIFOConfig
-                0x0000000000003728       0xa8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                0x0000000000003728                UART_FIFOConfig
+                0x0000000000003708       0xa8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+                0x0000000000003708                UART_FIFOConfig
  .text.UART_TxCmd
-                0x00000000000037d0       0x60 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                0x00000000000037d0                UART_TxCmd
+                0x00000000000037b0       0x60 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+                0x00000000000037b0                UART_TxCmd
  .text.__weak_main
-                0x0000000000003830        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
-                0x0000000000003830                __main
-                0x0000000000003830                __weak_main
- .text.malloc   0x0000000000003834       0xc8 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(alloc.o)
-                0x0000000000003834                malloc
- .text.free     0x00000000000038fc       0x30 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(alloc.o)
-                0x00000000000038fc                free
- *fill*         0x000000000000392c        0x4 ff
- .text.log10    0x0000000000003930       0x20 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(log10.o)
-                0x0000000000003930                log10
- .text.ch_val   0x0000000000003950       0x30 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
+                0x0000000000003810        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                0x0000000000003810                __main
+                0x0000000000003810                __weak_main
+ .text.malloc   0x0000000000003814       0xc8 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(alloc.o)
+                0x0000000000003814                malloc
+ .text.free     0x00000000000038dc       0x30 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(alloc.o)
+                0x00000000000038dc                free
+ *fill*         0x000000000000390c        0x4 ff
+ .text.log10    0x0000000000003910       0x20 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(log10.o)
+                0x0000000000003910                log10
+ .text.ch_val   0x0000000000003930       0x30 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
  .text._strtoul
-                0x0000000000003980       0xb0 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
- .text.strtol   0x0000000000003a30       0x7c /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
-                0x0000000000003a30                strtol
- .text.atoi     0x0000000000003aac       0x18 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
-                0x0000000000003aac                atoi
- .text.abs      0x0000000000003ac4        0x8 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(stdlib.o)
-                0x0000000000003ac4                abs
- .text.strcat   0x0000000000003acc       0x1e /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcat.o)
-                0x0000000000003acc                strcat
- .text.strcpy   0x0000000000003aea       0x42 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcpy.o)
-                0x0000000000003aea                strcpy
- .text.strlen   0x0000000000003b2c       0x48 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strlen.o)
-                0x0000000000003b2c                strlen
- .text.strtok   0x0000000000003b74       0x40 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strtok.o)
-                0x0000000000003b74                strtok
- .text._sbrk    0x0000000000003bb4       0x3c /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(_cr_sbrk.o)
-                0x0000000000003bb4                _sbrk
- .text.log      0x0000000000003bf0      0x1dc /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(log.o)
-                0x0000000000003bf0                log
- .text.strcspn  0x0000000000003dcc       0x1e /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcspn.o)
-                0x0000000000003dcc                strcspn
- .text.strspn   0x0000000000003dea       0x1e /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strspn.o)
-                0x0000000000003dea                strspn
+                0x0000000000003960       0xb0 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
+ .text.strtol   0x0000000000003a10       0x7c /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
+                0x0000000000003a10                strtol
+ .text.atoi     0x0000000000003a8c       0x18 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
+                0x0000000000003a8c                atoi
+ .text.abs      0x0000000000003aa4        0x8 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(stdlib.o)
+                0x0000000000003aa4                abs
+ .text.strcat   0x0000000000003aac       0x1e /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcat.o)
+                0x0000000000003aac                strcat
+ .text.strcpy   0x0000000000003aca       0x42 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcpy.o)
+                0x0000000000003aca                strcpy
+ .text.strlen   0x0000000000003b0c       0x48 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strlen.o)
+                0x0000000000003b0c                strlen
+ .text.strtok   0x0000000000003b54       0x40 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strtok.o)
+                0x0000000000003b54                strtok
+ .text._sbrk    0x0000000000003b94       0x3c /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(_cr_sbrk.o)
+                0x0000000000003b94                _sbrk
+ .text.log      0x0000000000003bd0      0x1dc /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(log.o)
+                0x0000000000003bd0                log
+ .text.strcspn  0x0000000000003dac       0x1e /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcspn.o)
+                0x0000000000003dac                strcspn
+ .text.strspn   0x0000000000003dca       0x1e /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strspn.o)
+                0x0000000000003dca                strspn
  .text.__check_heap_overflow
-                0x0000000000003e08       0x14 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(_cr_check_heap.o)
-                0x0000000000003e08                __check_heap_overflow
- .text.frexp    0x0000000000003e1c       0x56 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(frexp.o)
-                0x0000000000003e1c                frexp
+                0x0000000000003de8       0x14 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(_cr_check_heap.o)
+                0x0000000000003de8                __check_heap_overflow
+ .text.frexp    0x0000000000003dfc       0x56 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(frexp.o)
+                0x0000000000003dfc                frexp
  .text.__aeabi_division_ldivmod
-                0x0000000000003e72       0x26 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
-                0x0000000000003e72                __aeabi_ldivmod
+                0x0000000000003e52       0x26 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+                0x0000000000003e52                __aeabi_ldivmod
  .text.__aeabi_division_uldivmod
-                0x0000000000003e98      0x174 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
-                0x0000000000003e98                __aeabi_uldivmod
-                0x0000000000003e9c                __bhs_ldivmod1
+                0x0000000000003e78      0x174 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_64.o)
+                0x0000000000003e78                __aeabi_uldivmod
+                0x0000000000003e7c                __bhs_ldivmod1
  .text.__aeabi_division_idiv0
-                0x000000000000400c        0x2 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
-                0x000000000000400c                __aeabi_idiv0
- *fill*         0x000000000000400e        0x2 ff
+                0x0000000000003fec        0x2 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(division_idiv0.o)
+                0x0000000000003fec                __aeabi_idiv0
+ *fill*         0x0000000000003fee        0x2 ff
  .text.__aeabi_dmul
-                0x0000000000004010       0xfc /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x0000000000004010                __aeabi_dmul
+                0x0000000000003ff0       0xfc /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x0000000000003ff0                __aeabi_dmul
  .text.__aeabi_ddiv
-                0x000000000000410c      0x134 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x000000000000410c                __aeabi_ddiv
+                0x00000000000040ec      0x134 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x00000000000040ec                __aeabi_ddiv
  .text.__aeabi_dsub
-                0x0000000000004240      0x1ac /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x0000000000004240                __aeabi_dsub
+                0x0000000000004220      0x1ac /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x0000000000004220                __aeabi_dsub
  .text.__aeabi_dadd
-                0x00000000000043ec      0x110 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x00000000000043ec                __aeabi_dadd
+                0x00000000000043cc      0x110 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x00000000000043cc                __aeabi_dadd
  .text.__aeabi_d2uiz
-                0x00000000000044fc       0x32 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x00000000000044fc                __aeabi_d2uiz
+                0x00000000000044dc       0x32 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x00000000000044dc                __aeabi_d2uiz
  .text.__bhs_ui2d
-                0x000000000000452e       0x46 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x000000000000452e                __bhs_ui2d
+                0x000000000000450e       0x46 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x000000000000450e                __bhs_ui2d
  .text.__aeabi_i2d
-                0x0000000000004574       0x12 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x0000000000004574                __aeabi_i2d
+                0x0000000000004554       0x12 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x0000000000004554                __aeabi_i2d
  .text.__aeabi_ui2d
-                0x0000000000004586        0x8 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x0000000000004586                __aeabi_ui2d
+                0x0000000000004566        0x8 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x0000000000004566                __aeabi_ui2d
  .text.__aeabi_dcmpeq
-                0x000000000000458e       0x3c /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x000000000000458e                __aeabi_dcmpeq
+                0x000000000000456e       0x3c /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x000000000000456e                __aeabi_dcmpeq
  .text.__aeabi_dcmpgt
-                0x00000000000045ca       0x58 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x00000000000045ca                __aeabi_dcmpgt
+                0x00000000000045aa       0x58 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x00000000000045aa                __aeabi_dcmpgt
  .text.__aeabi_dcmple
-                0x0000000000004622       0x62 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
-                0x0000000000004622                __aeabi_dcmple
+                0x0000000000004602       0x62 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libcr_eabihelpers.a(double.o)
+                0x0000000000004602                __aeabi_dcmple
  *(.rodata .rodata.* .constdata .constdata.*)
  .rodata.bluetooth_rx_handler.str1.4
-                0x0000000000004684        0x2 ./src/Bluetooth.o
- *fill*         0x0000000000004686        0x2 ff
+                0x0000000000004664        0x2 ./src/Bluetooth.o
+ *fill*         0x0000000000004666        0x2 ff
  .rodata.bluetooh_send_package.str1.4
-                0x0000000000004688        0x2 ./src/Bluetooth.o
- *fill*         0x000000000000468a        0x2 ff
+                0x0000000000004668        0x2 ./src/Bluetooth.o
+ *fill*         0x000000000000466a        0x2 ff
  .rodata.KEYBOARD_COLUMNS_PIN
-                0x000000000000468c        0x4 ./src/PetFeeder.o
-                0x000000000000468c                KEYBOARD_COLUMNS_PIN
+                0x000000000000466c        0x4 ./src/PetFeeder.o
+                0x000000000000466c                KEYBOARD_COLUMNS_PIN
  .rodata.KEYBOARD_ROWS_PIN
-                0x0000000000004690        0x4 ./src/PetFeeder.o
-                0x0000000000004690                KEYBOARD_ROWS_PIN
+                0x0000000000004670        0x4 ./src/PetFeeder.o
+                0x0000000000004670                KEYBOARD_ROWS_PIN
  .rodata.control_steppmotor.str1.4
-                0x0000000000004694        0xe ./src/PetFeeder.o
+                0x0000000000004674        0xe ./src/PetFeeder.o
                                          0x12 (size before relaxing)
- *fill*         0x00000000000046a2        0x2 ff
+ *fill*         0x0000000000004682        0x2 ff
  .rodata.control_timer.str1.4
-                0x00000000000046a4        0x7 ./src/PetFeeder.o
- *fill*         0x00000000000046ab        0x1 ff
+                0x0000000000004684        0x7 ./src/PetFeeder.o
+ *fill*         0x000000000000468b        0x1 ff
  .rodata.steps_control
-                0x00000000000046ac       0x20 ./src/SteppMotor.o
-                0x00000000000046ac                steps_control
+                0x000000000000468c       0x20 ./src/StepMotor.o
+                0x000000000000468c                steps_control
  .rodata.ADC_Init.str1.1
-                0x00000000000046cc        0xe /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00000000000046ac        0xe /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
  .rodata.CSWTCH.5
-                0x00000000000046da        0x4 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00000000000046ba        0x4 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
  .rodata.GPDMA_IntGetStatus.str1.1
-                0x00000000000046de       0x10 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
- *fill*         0x00000000000046ee        0x2 ff
+                0x00000000000046be       0x10 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+ *fill*         0x00000000000046ce        0x2 ff
  .rodata.GPDMA_LUTPerAddr
-                0x00000000000046f0       0x60 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x00000000000046f0                GPDMA_LUTPerAddr
+                0x00000000000046d0       0x60 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x00000000000046d0                GPDMA_LUTPerAddr
  .rodata.GPDMA_LUTPerBurst
-                0x0000000000004750       0x18 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000004750                GPDMA_LUTPerBurst
+                0x0000000000004730       0x18 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000004730                GPDMA_LUTPerBurst
  .rodata.GPDMA_LUTPerWid
-                0x0000000000004768       0x18 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                0x0000000000004768                GPDMA_LUTPerWid
+                0x0000000000004748       0x18 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+                0x0000000000004748                GPDMA_LUTPerWid
  .rodata.TIM_GetIntStatus.str1.1
-                0x0000000000004780       0x10 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+                0x0000000000004760       0x10 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
  .rodata.UART_Init.str1.1
-                0x0000000000004790        0xf /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+                0x0000000000004770        0xf /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
  .rodata.str1.1
-                0x000000000000479f        0xf /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strtok.o)
+                0x000000000000477f        0xf /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strtok.o)
                                           0x1 (size before relaxing)
  .rodata.__ctype
-                0x000000000000479f      0x180 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(ctype.o)
-                0x000000000000479f                __ctype
-                0x0000000000004920                . = ALIGN (0x4)
- *fill*         0x000000000000491f        0x1 ff
+                0x000000000000477f      0x180 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(ctype.o)
+                0x000000000000477f                __ctype
+                0x0000000000004900                . = ALIGN (0x4)
+ *fill*         0x00000000000048ff        0x1 ff
 
-.glue_7         0x0000000000004920        0x0
- .glue_7        0x0000000000004920        0x0 linker stubs
+.glue_7         0x0000000000004900        0x0
+ .glue_7        0x0000000000004900        0x0 linker stubs
 
-.glue_7t        0x0000000000004920        0x0
- .glue_7t       0x0000000000004920        0x0 linker stubs
+.glue_7t        0x0000000000004900        0x0
+ .glue_7t       0x0000000000004900        0x0 linker stubs
 
-.vfp11_veneer   0x0000000000004920        0x0
- .vfp11_veneer  0x0000000000004920        0x0 linker stubs
+.vfp11_veneer   0x0000000000004900        0x0
+ .vfp11_veneer  0x0000000000004900        0x0 linker stubs
 
-.v4_bx          0x0000000000004920        0x0
- .v4_bx         0x0000000000004920        0x0 linker stubs
+.v4_bx          0x0000000000004900        0x0
+ .v4_bx         0x0000000000004900        0x0 linker stubs
 
-.iplt           0x0000000000004920        0x0
- .iplt          0x0000000000004920        0x0 ./src/ADCHandler.o
+.iplt           0x0000000000004900        0x0
+ .iplt          0x0000000000004900        0x0 ./src/ADCHandler.o
 
-.rel.dyn        0x0000000000004920        0x0
- .rel.iplt      0x0000000000004920        0x0 ./src/ADCHandler.o
+.rel.dyn        0x0000000000004900        0x0
+ .rel.iplt      0x0000000000004900        0x0 ./src/ADCHandler.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM.exidx      0x0000000000004920        0x0
-                0x0000000000004920                __exidx_start = .
+.ARM.exidx      0x0000000000004900        0x0
+                0x0000000000004900                __exidx_start = .
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x0000000000004920                __exidx_end = .
-                0x0000000000004920                _etext = .
+                0x0000000000004900                __exidx_end = .
+                0x0000000000004900                _etext = .
 
-.data_RAM2      0x000000002007c000        0x0 load address 0x0000000000004920
+.data_RAM2      0x000000002007c000        0x0 load address 0x0000000000004900
  FILL mask 0xff
                 [!provide]                        PROVIDE (__start_data_RAM2 = .)
                 [!provide]                        PROVIDE (__start_data_RamAHB32 = .)
@@ -1746,7 +1746,7 @@ END GROUP
                 0x0000000010000000                . = ALIGN (0x4)
                 0x0000000010000000                _end_uninit_RESERVED = .
 
-.data           0x0000000010000000       0x28 load address 0x0000000000004920
+.data           0x0000000010000000       0x28 load address 0x0000000000004900
  FILL mask 0xff
                 0x0000000010000000                _data = .
                 [!provide]                        PROVIDE (__start_data_RAM = .)
@@ -1770,7 +1770,7 @@ END GROUP
                 [!provide]                        PROVIDE (__end_data_RAM = .)
                 [!provide]                        PROVIDE (__end_data_RamLoc32 = .)
 
-.igot.plt       0x0000000010000028        0x0 load address 0x0000000000004948
+.igot.plt       0x0000000010000028        0x0 load address 0x0000000000004928
  .igot.plt      0x0000000010000028        0x0 ./src/ADCHandler.o
 
 .bss_RAM2       0x000000002007c000        0x0
@@ -1784,142 +1784,140 @@ END GROUP
                 [!provide]                        PROVIDE (__end_bss_RAM2 = .)
                 [!provide]                        PROVIDE (__end_bss_RamAHB32 = .)
 
-.bss            0x0000000010000028      0x264
+.bss            0x0000000010000028      0x25c
                 0x0000000010000028                _bss = .
                 [!provide]                        PROVIDE (__start_bss_RAM = .)
                 [!provide]                        PROVIDE (__start_bss_RamLoc32 = .)
  *(.bss*)
  .bss.adc_channel_handler
                 0x0000000010000028       0x20 ./src/ADCHandler.o
- .bss.adc_channel_status
-                0x0000000010000048        0x8 ./src/ADCHandler.o
  .bss.bluetooth_uart
-                0x0000000010000050       0x20 ./src/Bluetooth.o
-                0x0000000010000050                bluetooth_uart
+                0x0000000010000048       0x20 ./src/Bluetooth.o
+                0x0000000010000048                bluetooth_uart
  .bss.bluetooth_dma
-                0x0000000010000070       0xac ./src/Bluetooth.o
-                0x0000000010000070                bluetooth_dma
- .bss.tx_queue  0x000000001000011c        0x4 ./src/Bluetooth.o
-                0x000000001000011c                tx_queue
- .bss.rx_queue  0x0000000010000120        0x4 ./src/Bluetooth.o
-                0x0000000010000120                rx_queue
+                0x0000000010000068       0xac ./src/Bluetooth.o
+                0x0000000010000068                bluetooth_dma
+ .bss.tx_queue  0x0000000010000114        0x4 ./src/Bluetooth.o
+                0x0000000010000114                tx_queue
+ .bss.rx_queue  0x0000000010000118        0x4 ./src/Bluetooth.o
+                0x0000000010000118                rx_queue
  .bss.dma_channel_handler
-                0x0000000010000124       0x20 ./src/DMAHandler.o
+                0x000000001000011c       0x20 ./src/DMAHandler.o
  .bss.dma_channel_status
-                0x0000000010000144        0x8 ./src/DMAHandler.o
+                0x000000001000013c        0x8 ./src/DMAHandler.o
  .bss.keyboard_pin
-                0x000000001000014c       0x11 ./src/Keyboard.o
-                0x000000001000014c                keyboard_pin
- *fill*         0x000000001000015d        0x3 
+                0x0000000010000144       0x11 ./src/Keyboard.o
+                0x0000000010000144                keyboard_pin
+ *fill*         0x0000000010000155        0x3 
  .bss.keyboard_timer
-                0x0000000010000160       0x18 ./src/Keyboard.o
-                0x0000000010000160                keyboard_timer
+                0x0000000010000158       0x18 ./src/Keyboard.o
+                0x0000000010000158                keyboard_timer
  .bss.column_press
-                0x0000000010000178        0x1 ./src/Keyboard.o
-                0x0000000010000178                column_press
+                0x0000000010000170        0x1 ./src/Keyboard.o
+                0x0000000010000170                column_press
  .bss.row_press
-                0x0000000010000179        0x1 ./src/Keyboard.o
-                0x0000000010000179                row_press
- *fill*         0x000000001000017a        0x2 
+                0x0000000010000171        0x1 ./src/Keyboard.o
+                0x0000000010000171                row_press
+ *fill*         0x0000000010000172        0x2 
  .bss.loadcell_timer
-                0x000000001000017c       0x18 ./src/LoadCell.o
-                0x000000001000017c                loadcell_timer
+                0x0000000010000174       0x18 ./src/LoadCell.o
+                0x0000000010000174                loadcell_timer
  .bss.loadcell_pin
-                0x0000000010000194        0xe ./src/LoadCell.o
-                0x0000000010000194                loadcell_pin
- *fill*         0x00000000100001a2        0x6 
+                0x000000001000018c        0xe ./src/LoadCell.o
+                0x000000001000018c                loadcell_pin
+ *fill*         0x000000001000019a        0x6 
  .bss.loadcell_measuring
-                0x00000000100001a8       0x50 ./src/LoadCell.o
-                0x00000000100001a8                loadcell_measuring
+                0x00000000100001a0       0x50 ./src/LoadCell.o
+                0x00000000100001a0                loadcell_measuring
  .bss.loadcell_gain
-                0x00000000100001f8        0x1 ./src/LoadCell.o
-                0x00000000100001f8                loadcell_gain
- .bss.i         0x00000000100001f9        0x1 ./src/LoadCell.o
+                0x00000000100001f0        0x1 ./src/LoadCell.o
+                0x00000000100001f0                loadcell_gain
+ .bss.i         0x00000000100001f1        0x1 ./src/LoadCell.o
  .bss.toggles.3
-                0x00000000100001fa        0x1 ./src/LoadCell.o
- .bss.pulses.2  0x00000000100001fb        0x1 ./src/LoadCell.o
+                0x00000000100001f2        0x1 ./src/LoadCell.o
+ .bss.pulses.2  0x00000000100001f3        0x1 ./src/LoadCell.o
  .bss.counter.1
-                0x00000000100001fc        0x2 ./src/LoadCell.o
+                0x00000000100001f4        0x2 ./src/LoadCell.o
  .bss.counter.0
-                0x00000000100001fe        0x2 ./src/LoadCell.o
+                0x00000000100001f6        0x2 ./src/LoadCell.o
  .bss.send_units_flag
-                0x0000000010000200        0x1 ./src/PetFeeder.o
-                0x0000000010000200                send_units_flag
+                0x00000000100001f8        0x1 ./src/PetFeeder.o
+                0x00000000100001f8                send_units_flag
  .bss.send_gate_state_flag
-                0x0000000010000201        0x1 ./src/PetFeeder.o
-                0x0000000010000201                send_gate_state_flag
+                0x00000000100001f9        0x1 ./src/PetFeeder.o
+                0x00000000100001f9                send_gate_state_flag
  .bss.send_reload_weigth_flag
-                0x0000000010000202        0x1 ./src/PetFeeder.o
-                0x0000000010000202                send_reload_weigth_flag
+                0x00000000100001fa        0x1 ./src/PetFeeder.o
+                0x00000000100001fa                send_reload_weigth_flag
  .bss.in_input_reference_flag
-                0x0000000010000203        0x1 ./src/PetFeeder.o
-                0x0000000010000203                in_input_reference_flag
+                0x00000000100001fb        0x1 ./src/PetFeeder.o
+                0x00000000100001fb                in_input_reference_flag
  .bss.in_input_reload_flag
-                0x0000000010000204        0x1 ./src/PetFeeder.o
-                0x0000000010000204                in_input_reload_flag
+                0x00000000100001fc        0x1 ./src/PetFeeder.o
+                0x00000000100001fc                in_input_reload_flag
  .bss.change_gate_state_flag
-                0x0000000010000205        0x1 ./src/PetFeeder.o
-                0x0000000010000205                change_gate_state_flag
+                0x00000000100001fd        0x1 ./src/PetFeeder.o
+                0x00000000100001fd                change_gate_state_flag
  .bss.open_gate_flag
-                0x0000000010000206        0x1 ./src/PetFeeder.o
-                0x0000000010000206                open_gate_flag
- *fill*         0x0000000010000207        0x1 
+                0x00000000100001fe        0x1 ./src/PetFeeder.o
+                0x00000000100001fe                open_gate_flag
+ *fill*         0x00000000100001ff        0x1 
  .bss.reload_weigth
-                0x0000000010000208        0x2 ./src/PetFeeder.o
-                0x0000000010000208                reload_weigth
- *fill*         0x000000001000020a        0x2 
+                0x0000000010000200        0x2 ./src/PetFeeder.o
+                0x0000000010000200                reload_weigth
+ *fill*         0x0000000010000202        0x2 
  .bss.keyboard_input_buffer.2
-                0x000000001000020c        0x6 ./src/PetFeeder.o
+                0x0000000010000204        0x6 ./src/PetFeeder.o
  .bss.keyboard_buffer_index.1
-                0x0000000010000212        0x1 ./src/PetFeeder.o
+                0x000000001000020a        0x1 ./src/PetFeeder.o
  .bss.bt_send_counter.0
-                0x0000000010000213        0x1 ./src/PetFeeder.o
- .bss.steppmotor_pin
-                0x0000000010000214        0xd ./src/SteppMotor.o
-                0x0000000010000214                steppmotor_pin
- *fill*         0x0000000010000221        0x3 
- .bss.steppmotor_timer
-                0x0000000010000224       0x18 ./src/SteppMotor.o
-                0x0000000010000224                steppmotor_timer
- .bss.rotation  0x000000001000023c        0x2 ./src/SteppMotor.o
-                0x000000001000023c                rotation
+                0x000000001000020b        0x1 ./src/PetFeeder.o
+ .bss.stepmotor_pin
+                0x000000001000020c        0xd ./src/StepMotor.o
+                0x000000001000020c                stepmotor_pin
+ *fill*         0x0000000010000219        0x3 
+ .bss.stepmotor_timer
+                0x000000001000021c       0x18 ./src/StepMotor.o
+                0x000000001000021c                stepmotor_timer
+ .bss.rotation  0x0000000010000234        0x2 ./src/StepMotor.o
+                0x0000000010000234                rotation
  .bss.direction
-                0x000000001000023e        0x1 ./src/SteppMotor.o
-                0x000000001000023e                direction
+                0x0000000010000236        0x1 ./src/StepMotor.o
+                0x0000000010000236                direction
  .bss.aux_index
-                0x000000001000023f        0x1 ./src/SteppMotor.o
-                0x000000001000023f                aux_index
+                0x0000000010000237        0x1 ./src/StepMotor.o
+                0x0000000010000237                aux_index
  .bss.in_rotation_flag
-                0x0000000010000240        0x1 ./src/SteppMotor.o
-                0x0000000010000240                in_rotation_flag
- *fill*         0x0000000010000241        0x3 
+                0x0000000010000238        0x1 ./src/StepMotor.o
+                0x0000000010000238                in_rotation_flag
+ *fill*         0x0000000010000239        0x3 
  .bss.timer_handlers
-                0x0000000010000244       0x10 ./src/TIMHandler.o
-                0x0000000010000244                timer_handlers
+                0x000000001000023c       0x10 ./src/TIMHandler.o
+                0x000000001000023c                timer_handlers
  .bss.watersensor_pin
-                0x0000000010000254        0x8 ./src/WaterSensor.o
-                0x0000000010000254                watersensor_pin
+                0x000000001000024c        0x8 ./src/WaterSensor.o
+                0x000000001000024c                watersensor_pin
  .bss.watersensor_adc
-                0x000000001000025c        0x8 ./src/WaterSensor.o
-                0x000000001000025c                watersensor_adc
+                0x0000000010000254        0x8 ./src/WaterSensor.o
+                0x0000000010000254                watersensor_adc
  .bss.watersensor_measurings
-                0x0000000010000264       0x14 ./src/WaterSensor.o
-                0x0000000010000264                watersensor_measurings
+                0x000000001000025c       0x14 ./src/WaterSensor.o
+                0x000000001000025c                watersensor_measurings
  .bss.watersensor_last_prom
-                0x0000000010000278        0x4 ./src/WaterSensor.o
-                0x0000000010000278                watersensor_last_prom
- .bss.i.0       0x000000001000027c        0x1 ./src/WaterSensor.o
- *fill*         0x000000001000027d        0x3 
+                0x0000000010000270        0x4 ./src/WaterSensor.o
+                0x0000000010000270                watersensor_last_prom
+ .bss.i.0       0x0000000010000274        0x1 ./src/WaterSensor.o
+ *fill*         0x0000000010000275        0x3 
  .bss.__end_of_heap
-                0x0000000010000280        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__init_alloc.o)
-                0x0000000010000280                __end_of_heap
- .bss.__heaps   0x0000000010000284        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__init_alloc.o)
-                0x0000000010000284                __heaps
- .bss.errno     0x0000000010000288        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(errno.o)
-                0x0000000010000288                errno
+                0x0000000010000278        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__init_alloc.o)
+                0x0000000010000278                __end_of_heap
+ .bss.__heaps   0x000000001000027c        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__init_alloc.o)
+                0x000000001000027c                __heaps
+ .bss.errno     0x0000000010000280        0x4 /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(errno.o)
+                0x0000000010000280                errno
  *(COMMON)
-                0x000000001000028c                . = ALIGN (0x4)
-                0x000000001000028c                _ebss = .
+                0x0000000010000284                . = ALIGN (0x4)
+                0x0000000010000284                _ebss = .
                 [!provide]                        PROVIDE (__end_bss_RAM = .)
                 [!provide]                        PROVIDE (__end_bss_RamLoc32 = .)
                 [!provide]                        PROVIDE (end = .)
@@ -1935,69 +1933,69 @@ END GROUP
                 [!provide]                        PROVIDE (__end_noinit_RAM2 = .)
                 [!provide]                        PROVIDE (__end_noinit_RamAHB32 = .)
 
-.noinit         0x000000001000028c        0x0
-                0x000000001000028c                _noinit = .
+.noinit         0x0000000010000284        0x0
+                0x0000000010000284                _noinit = .
                 [!provide]                        PROVIDE (__start_noinit_RAM = .)
                 [!provide]                        PROVIDE (__start_noinit_RamLoc32 = .)
  *(.noinit*)
-                0x000000001000028c                . = ALIGN (0x4)
-                0x000000001000028c                _end_noinit = .
+                0x0000000010000284                . = ALIGN (0x4)
+                0x0000000010000284                _end_noinit = .
                 [!provide]                        PROVIDE (__end_noinit_RAM = .)
                 [!provide]                        PROVIDE (__end_noinit_RamLoc32 = .)
-                0x000000001000028c                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010000284                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
                 0x0000000010008000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
                 0xffffffffefff74c6                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
                 0x0000000000000000                _image_start = LOADADDR (.text)
-                0x0000000000004948                _image_end = (LOADADDR (.data) + SIZEOF (.data))
-                0x0000000000004948                _image_size = (_image_end - _image_start)
+                0x0000000000004928                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000004928                _image_size = (_image_end - _image_start)
 OUTPUT(PetFeeder.axf elf32-littlearm)
 LOAD linker stubs
 
-.debug_info     0x0000000000000000     0xadf4
- .debug_info    0x0000000000000000      0x55f ./src/ADCHandler.o
- .debug_info    0x000000000000055f      0xe05 ./src/Bluetooth.o
- .debug_info    0x0000000000001364      0x63a ./src/DMAHandler.o
- .debug_info    0x000000000000199e      0x971 ./src/Keyboard.o
- .debug_info    0x000000000000230f      0x7ab ./src/LoadCell.o
- .debug_info    0x0000000000002aba      0x934 ./src/PetFeeder.o
- .debug_info    0x00000000000033ee      0x694 ./src/SteppMotor.o
- .debug_info    0x0000000000003a82      0x55f ./src/TIMHandler.o
- .debug_info    0x0000000000003fe1      0x15b ./src/Utils.o
- .debug_info    0x000000000000413c      0x69e ./src/WaterSensor.o
- .debug_info    0x00000000000047da      0x27f ./src/cr_startup_lpc175x_6x.o
- .debug_info    0x0000000000004a59       0x40 ./src/crp.o
- .debug_info    0x0000000000004a99      0x347 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
- .debug_info    0x0000000000004de0      0x8f0 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
- .debug_info    0x00000000000056d0      0x6ca /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
- .debug_info    0x0000000000005d9a     0x112b /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
- .debug_info    0x0000000000006ec5     0x1027 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
- .debug_info    0x0000000000007eec       0xd4 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
- .debug_info    0x0000000000007fc0      0x544 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
- .debug_info    0x0000000000008504      0xc54 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
- .debug_info    0x0000000000009158     0x1c9c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+.debug_info     0x0000000000000000     0xadb4
+ .debug_info    0x0000000000000000      0x522 ./src/ADCHandler.o
+ .debug_info    0x0000000000000522      0xe05 ./src/Bluetooth.o
+ .debug_info    0x0000000000001327      0x63a ./src/DMAHandler.o
+ .debug_info    0x0000000000001961      0x971 ./src/Keyboard.o
+ .debug_info    0x00000000000022d2      0x7a8 ./src/LoadCell.o
+ .debug_info    0x0000000000002a7a      0x934 ./src/PetFeeder.o
+ .debug_info    0x00000000000033ae      0x694 ./src/StepMotor.o
+ .debug_info    0x0000000000003a42      0x55f ./src/TIMHandler.o
+ .debug_info    0x0000000000003fa1      0x15b ./src/Utils.o
+ .debug_info    0x00000000000040fc      0x69e ./src/WaterSensor.o
+ .debug_info    0x000000000000479a      0x27f ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x0000000000004a19       0x40 ./src/crp.o
+ .debug_info    0x0000000000004a59      0x347 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x0000000000004da0      0x8f0 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_info    0x0000000000005690      0x6ca /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_info    0x0000000000005d5a     0x112b /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+ .debug_info    0x0000000000006e85     0x1027 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_info    0x0000000000007eac       0xd4 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_info    0x0000000000007f80      0x544 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_info    0x00000000000084c4      0xc54 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_info    0x0000000000009118     0x1c9c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 
-.debug_abbrev   0x0000000000000000     0x2758
+.debug_abbrev   0x0000000000000000     0x2709
  .debug_abbrev  0x0000000000000000      0x1bd ./src/ADCHandler.o
- .debug_abbrev  0x00000000000001bd      0x2b1 ./src/Bluetooth.o
- .debug_abbrev  0x000000000000046e      0x20a ./src/DMAHandler.o
- .debug_abbrev  0x0000000000000678      0x217 ./src/Keyboard.o
- .debug_abbrev  0x000000000000088f      0x25b ./src/LoadCell.o
- .debug_abbrev  0x0000000000000aea      0x1fc ./src/PetFeeder.o
- .debug_abbrev  0x0000000000000ce6      0x1ca ./src/SteppMotor.o
- .debug_abbrev  0x0000000000000eb0      0x1cc ./src/TIMHandler.o
- .debug_abbrev  0x000000000000107c       0xca ./src/Utils.o
- .debug_abbrev  0x0000000000001146      0x1f4 ./src/WaterSensor.o
- .debug_abbrev  0x000000000000133a      0x122 ./src/cr_startup_lpc175x_6x.o
- .debug_abbrev  0x000000000000145c       0x38 ./src/crp.o
- .debug_abbrev  0x0000000000001494      0x10e /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
- .debug_abbrev  0x00000000000015a2      0x1bb /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
- .debug_abbrev  0x000000000000175d      0x1f1 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
- .debug_abbrev  0x000000000000194e      0x287 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
- .debug_abbrev  0x0000000000001bd5      0x329 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
- .debug_abbrev  0x0000000000001efe       0x75 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
- .debug_abbrev  0x0000000000001f73      0x1b9 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
- .debug_abbrev  0x000000000000212c      0x2c8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
- .debug_abbrev  0x00000000000023f4      0x364 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+ .debug_abbrev  0x00000000000001bd      0x2a0 ./src/Bluetooth.o
+ .debug_abbrev  0x000000000000045d      0x20a ./src/DMAHandler.o
+ .debug_abbrev  0x0000000000000667      0x217 ./src/Keyboard.o
+ .debug_abbrev  0x000000000000087e      0x21d ./src/LoadCell.o
+ .debug_abbrev  0x0000000000000a9b      0x1fc ./src/PetFeeder.o
+ .debug_abbrev  0x0000000000000c97      0x1ca ./src/StepMotor.o
+ .debug_abbrev  0x0000000000000e61      0x1cc ./src/TIMHandler.o
+ .debug_abbrev  0x000000000000102d       0xca ./src/Utils.o
+ .debug_abbrev  0x00000000000010f7      0x1f4 ./src/WaterSensor.o
+ .debug_abbrev  0x00000000000012eb      0x122 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x000000000000140d       0x38 ./src/crp.o
+ .debug_abbrev  0x0000000000001445      0x10e /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x0000000000001553      0x1bb /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_abbrev  0x000000000000170e      0x1f1 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_abbrev  0x00000000000018ff      0x287 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+ .debug_abbrev  0x0000000000001b86      0x329 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x0000000000001eaf       0x75 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_abbrev  0x0000000000001f24      0x1b9 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x00000000000020dd      0x2c8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_abbrev  0x00000000000023a5      0x364 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 
 .debug_aranges  0x0000000000000000      0x800
  .debug_aranges
@@ -2013,7 +2011,7 @@ LOAD linker stubs
  .debug_aranges
                 0x00000000000001f0       0x68 ./src/PetFeeder.o
  .debug_aranges
-                0x0000000000000258       0x48 ./src/SteppMotor.o
+                0x0000000000000258       0x48 ./src/StepMotor.o
  .debug_aranges
                 0x00000000000002a0       0x58 ./src/TIMHandler.o
  .debug_aranges
@@ -2050,7 +2048,7 @@ LOAD linker stubs
  .debug_ranges  0x00000000000000e0       0x40 ./src/Keyboard.o
  .debug_ranges  0x0000000000000120       0x80 ./src/LoadCell.o
  .debug_ranges  0x00000000000001a0       0x70 ./src/PetFeeder.o
- .debug_ranges  0x0000000000000210       0x38 ./src/SteppMotor.o
+ .debug_ranges  0x0000000000000210       0x38 ./src/StepMotor.o
  .debug_ranges  0x0000000000000248       0x48 ./src/TIMHandler.o
  .debug_ranges  0x0000000000000290       0x18 ./src/Utils.o
  .debug_ranges  0x00000000000002a8       0x48 ./src/WaterSensor.o
@@ -2102,7 +2100,7 @@ LOAD linker stubs
  .debug_macro   0x0000000000003528      0x33a ./src/PetFeeder.o
  .debug_macro   0x0000000000003862       0x10 ./src/PetFeeder.o
  .debug_macro   0x0000000000003872       0x64 ./src/PetFeeder.o
- .debug_macro   0x00000000000038d6       0xec ./src/SteppMotor.o
+ .debug_macro   0x00000000000038d6       0xec ./src/StepMotor.o
  .debug_macro   0x00000000000039c2       0xd0 ./src/TIMHandler.o
  .debug_macro   0x0000000000003a92       0xae ./src/Utils.o
  .debug_macro   0x0000000000003b40       0xf8 ./src/WaterSensor.o
@@ -2125,71 +2123,71 @@ LOAD linker stubs
  .debug_macro   0x00000000000051cf       0xa8 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
  .debug_macro   0x0000000000005277       0x9f /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 
-.debug_line     0x0000000000000000     0x74f4
- .debug_line    0x0000000000000000      0x42d ./src/ADCHandler.o
- .debug_line    0x000000000000042d      0x6a6 ./src/Bluetooth.o
- .debug_line    0x0000000000000ad3      0x54b ./src/DMAHandler.o
- .debug_line    0x000000000000101e      0x686 ./src/Keyboard.o
- .debug_line    0x00000000000016a4      0x697 ./src/LoadCell.o
- .debug_line    0x0000000000001d3b      0x70e ./src/PetFeeder.o
- .debug_line    0x0000000000002449      0x4ba ./src/SteppMotor.o
- .debug_line    0x0000000000002903      0x3f0 ./src/TIMHandler.o
- .debug_line    0x0000000000002cf3      0x309 ./src/Utils.o
- .debug_line    0x0000000000002ffc      0x496 ./src/WaterSensor.o
- .debug_line    0x0000000000003492      0x160 ./src/cr_startup_lpc175x_6x.o
- .debug_line    0x00000000000035f2       0xb5 ./src/crp.o
- .debug_line    0x00000000000036a7      0x43c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
- .debug_line    0x0000000000003ae3      0x68b /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
- .debug_line    0x000000000000416e      0x45c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
- .debug_line    0x00000000000045ca      0x628 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
- .debug_line    0x0000000000004bf2      0x855 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
- .debug_line    0x0000000000005447      0x216 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
- .debug_line    0x000000000000565d      0x372 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
- .debug_line    0x00000000000059cf      0x944 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
- .debug_line    0x0000000000006313     0x11e1 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+.debug_line     0x0000000000000000     0x74d3
+ .debug_line    0x0000000000000000      0x418 ./src/ADCHandler.o
+ .debug_line    0x0000000000000418      0x6a6 ./src/Bluetooth.o
+ .debug_line    0x0000000000000abe      0x54b ./src/DMAHandler.o
+ .debug_line    0x0000000000001009      0x686 ./src/Keyboard.o
+ .debug_line    0x000000000000168f      0x696 ./src/LoadCell.o
+ .debug_line    0x0000000000001d25      0x70b ./src/PetFeeder.o
+ .debug_line    0x0000000000002430      0x4b8 ./src/StepMotor.o
+ .debug_line    0x00000000000028e8      0x3ef ./src/TIMHandler.o
+ .debug_line    0x0000000000002cd7      0x307 ./src/Utils.o
+ .debug_line    0x0000000000002fde      0x493 ./src/WaterSensor.o
+ .debug_line    0x0000000000003471      0x160 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000000000035d1       0xb5 ./src/crp.o
+ .debug_line    0x0000000000003686      0x43c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x0000000000003ac2      0x68b /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_line    0x000000000000414d      0x45c /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_line    0x00000000000045a9      0x628 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+ .debug_line    0x0000000000004bd1      0x855 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_line    0x0000000000005426      0x216 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_line    0x000000000000563c      0x372 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_line    0x00000000000059ae      0x944 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_line    0x00000000000062f2     0x11e1 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 
-.debug_str      0x0000000000000000    0x11831
- .debug_str     0x0000000000000000     0x96f6 ./src/ADCHandler.o
-                                       0x9789 (size before relaxing)
- .debug_str     0x00000000000096f6     0x36a4 ./src/Bluetooth.o
-                                       0xc35d (size before relaxing)
- .debug_str     0x000000000000cd9a      0x194 ./src/DMAHandler.o
+.debug_str      0x0000000000000000    0x11813
+ .debug_str     0x0000000000000000     0x96d8 ./src/ADCHandler.o
+                                       0x976b (size before relaxing)
+ .debug_str     0x00000000000096d8     0x36ad ./src/Bluetooth.o
+                                       0xc366 (size before relaxing)
+ .debug_str     0x000000000000cd85      0x19f ./src/DMAHandler.o
                                        0xa3e2 (size before relaxing)
- .debug_str     0x000000000000cf2e      0xd3d ./src/Keyboard.o
+ .debug_str     0x000000000000cf24      0xd34 ./src/Keyboard.o
                                        0xa128 (size before relaxing)
- .debug_str     0x000000000000dc6b     0x1477 ./src/LoadCell.o
+ .debug_str     0x000000000000dc58     0x1477 ./src/LoadCell.o
                                        0xb1fc (size before relaxing)
- .debug_str     0x000000000000f0e2      0x4ef ./src/PetFeeder.o
+ .debug_str     0x000000000000f0cf      0x4ef ./src/PetFeeder.o
                                        0xe83f (size before relaxing)
- .debug_str     0x000000000000f5d1      0x10b ./src/SteppMotor.o
-                                       0x9f1f (size before relaxing)
- .debug_str     0x000000000000f6dc       0x9c ./src/TIMHandler.o
+ .debug_str     0x000000000000f5be      0x100 ./src/StepMotor.o
+                                       0x9f14 (size before relaxing)
+ .debug_str     0x000000000000f6be       0x9c ./src/TIMHandler.o
                                        0x978b (size before relaxing)
- .debug_str     0x000000000000f778       0x2f ./src/Utils.o
+ .debug_str     0x000000000000f75a       0x2f ./src/Utils.o
                                        0x8b0e (size before relaxing)
- .debug_str     0x000000000000f7a7      0x1bb ./src/WaterSensor.o
+ .debug_str     0x000000000000f789      0x1bb ./src/WaterSensor.o
                                        0xa061 (size before relaxing)
- .debug_str     0x000000000000f962      0x1c2 ./src/cr_startup_lpc175x_6x.o
+ .debug_str     0x000000000000f944      0x1c2 ./src/cr_startup_lpc175x_6x.o
                                        0x2eb5 (size before relaxing)
- .debug_str     0x000000000000fb24       0xe9 ./src/crp.o
+ .debug_str     0x000000000000fb06       0xe9 ./src/crp.o
                                        0x2dd6 (size before relaxing)
- .debug_str     0x000000000000fc0d      0x51d /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_str     0x000000000000fbef      0x51d /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
                                        0x88a5 (size before relaxing)
- .debug_str     0x000000000001012a      0x379 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_str     0x000000000001010c      0x379 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
                                        0xa48c (size before relaxing)
- .debug_str     0x00000000000104a3      0x100 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_str     0x0000000000010485      0x100 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
                                        0x9a9f (size before relaxing)
- .debug_str     0x00000000000105a3      0x2b7 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
+ .debug_str     0x0000000000010585      0x2b7 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
                                        0xb2f0 (size before relaxing)
- .debug_str     0x000000000001085a      0x3ac /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_str     0x000000000001083c      0x3ac /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
                                        0x8dfe (size before relaxing)
- .debug_str     0x0000000000010c06       0x2d /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_str     0x0000000000010be8       0x2d /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
                                        0x46cc (size before relaxing)
- .debug_str     0x0000000000010c33      0x211 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_str     0x0000000000010c15      0x211 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
                                        0x8d17 (size before relaxing)
- .debug_str     0x0000000000010e44      0x294 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
+ .debug_str     0x0000000000010e26      0x294 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
                                        0xaac4 (size before relaxing)
- .debug_str     0x00000000000110d8      0x759 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
+ .debug_str     0x00000000000110ba      0x759 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
                                        0xbb54 (size before relaxing)
 
 .comment        0x0000000000000000       0x49
@@ -2200,7 +2198,7 @@ LOAD linker stubs
  .comment       0x0000000000000049       0x4a ./src/Keyboard.o
  .comment       0x0000000000000049       0x4a ./src/LoadCell.o
  .comment       0x0000000000000049       0x4a ./src/PetFeeder.o
- .comment       0x0000000000000049       0x4a ./src/SteppMotor.o
+ .comment       0x0000000000000049       0x4a ./src/StepMotor.o
  .comment       0x0000000000000049       0x4a ./src/TIMHandler.o
  .comment       0x0000000000000049       0x4a ./src/Utils.o
  .comment       0x0000000000000049       0x4a ./src/WaterSensor.o
@@ -2250,7 +2248,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000000000000e1       0x2d ./src/PetFeeder.o
  .ARM.attributes
-                0x000000000000010e       0x2d ./src/SteppMotor.o
+                0x000000000000010e       0x2d ./src/StepMotor.o
  .ARM.attributes
                 0x000000000000013b       0x2d ./src/TIMHandler.o
  .ARM.attributes
@@ -2329,7 +2327,7 @@ LOAD linker stubs
  .debug_frame   0x00000000000003bc      0x10c ./src/Keyboard.o
  .debug_frame   0x00000000000004c8      0x208 ./src/LoadCell.o
  .debug_frame   0x00000000000006d0      0x168 ./src/PetFeeder.o
- .debug_frame   0x0000000000000838       0xe0 ./src/SteppMotor.o
+ .debug_frame   0x0000000000000838       0xe0 ./src/StepMotor.o
  .debug_frame   0x0000000000000918      0x118 ./src/TIMHandler.o
  .debug_frame   0x0000000000000a30       0x5c ./src/Utils.o
  .debug_frame   0x0000000000000a8c      0x118 ./src/WaterSensor.o
@@ -2440,7 +2438,7 @@ GPDMA_Setup                                       /home/franco/Documentos/Trabaj
 GPIO_ClearInt                                     /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
                                                   ./src/Keyboard.o
 GPIO_ClearValue                                   /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 GPIO_GetIntStatus                                 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
@@ -2450,11 +2448,11 @@ GPIO_ReadValue                                    /home/franco/Documentos/Trabaj
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 GPIO_SetDir                                       /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 GPIO_SetValue                                     /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 HardFault_Handler                                 ./src/cr_startup_lpc175x_6x.o
@@ -2470,7 +2468,7 @@ MemManage_Handler                                 ./src/cr_startup_lpc175x_6x.o
 NMI_Handler                                       ./src/cr_startup_lpc175x_6x.o
 PINSEL_ConfigPin                                  /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
                                                   ./src/WaterSensor.o
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
                                                   ./src/Bluetooth.o
@@ -2500,18 +2498,18 @@ TIMER2_IRQHandler                                 ./src/TIMHandler.o
 TIMER3_IRQHandler                                 ./src/TIMHandler.o
 TIM_ClearIntCapturePending                        /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
 TIM_ClearIntPending                               /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/PetFeeder.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 TIM_Cmd                                           /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/PetFeeder.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 TIM_ConfigCapture                                 /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
 TIM_ConfigMatch                                   /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/PetFeeder.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
@@ -2521,12 +2519,12 @@ TIM_GetCaptureValue                               /home/franco/Documentos/Trabaj
 TIM_GetIntCaptureStatus                           /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
 TIM_GetIntStatus                                  /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
 TIM_Init                                          /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/PetFeeder.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o
 TIM_ResetCounter                                  /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/LoadCell.o
 TIM_UpdateMatchValue                              /home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(lpc17xx_timer.o)
 UART0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
@@ -2731,7 +2729,7 @@ atoi                                              /usr/local/mcuxpressoide-11.6.
                                                   ./src/PetFeeder.o
                                                   ./src/Bluetooth.o
 atol                                              /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
-aux_index                                         ./src/SteppMotor.o
+aux_index                                         ./src/StepMotor.o
 bluetooh_dma_start_tx                             ./src/Bluetooth.o
 bluetooh_get_last_package                         ./src/Bluetooth.o
 bluetooh_pop_package                              ./src/Bluetooth.o
@@ -2765,7 +2763,7 @@ control_keyboard                                  ./src/PetFeeder.o
 control_steppmotor                                ./src/PetFeeder.o
 control_timer                                     ./src/PetFeeder.o
 data_init                                         ./src/cr_startup_lpc175x_6x.o
-direction                                         ./src/SteppMotor.o
+direction                                         ./src/StepMotor.o
 div                                               /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(stdlib.o)
 dma_add_handler                                   ./src/DMAHandler.o
                                                   ./src/Bluetooth.o
@@ -2802,7 +2800,7 @@ ftell                                             /usr/local/mcuxpressoide-11.6.
 g_pfnVectors                                      ./src/cr_startup_lpc175x_6x.o
 in_input_reference_flag                           ./src/PetFeeder.o
 in_input_reload_flag                              ./src/PetFeeder.o
-in_rotation_flag                                  ./src/SteppMotor.o
+in_rotation_flag                                  ./src/StepMotor.o
 init                                              ./src/PetFeeder.o
 int_to_ascii_str                                  ./src/Utils.o
                                                   ./src/Bluetooth.o
@@ -2815,7 +2813,7 @@ is_loadcell_in_tare                               ./src/LoadCell.o
                                                   ./src/PetFeeder.o
 is_loadcell_set_scale                             ./src/LoadCell.o
                                                   ./src/PetFeeder.o
-is_steppmotor_in_rotation                         ./src/SteppMotor.o
+is_stepmotor_in_rotation                          ./src/StepMotor.o
                                                   ./src/PetFeeder.o
 isalnum                                           /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(ctype.o)
 isalpha                                           /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(ctype.o)
@@ -2887,7 +2885,7 @@ reload_weigth                                     ./src/PetFeeder.o
 remove                                            /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(remove.o)
                                                   /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(fclose.o)
 rename                                            /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(remove.o)
-rotation                                          ./src/SteppMotor.o
+rotation                                          ./src/StepMotor.o
 row_press                                         ./src/Keyboard.o
 rx_queue                                          ./src/Bluetooth.o
 scanf                                             /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
@@ -2898,16 +2896,16 @@ setvbuf                                           /usr/local/mcuxpressoide-11.6.
                                                   /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(initio.o)
 srand                                             /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(stdlib.o)
 sscanf                                            /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
-steppmotor_config_pin                             ./src/SteppMotor.o
-steppmotor_config_timer                           ./src/SteppMotor.o
-steppmotor_init                                   ./src/SteppMotor.o
+stepmotor_config_pin                              ./src/StepMotor.o
+stepmotor_config_timer                            ./src/StepMotor.o
+stepmotor_init                                    ./src/StepMotor.o
                                                   ./src/PetFeeder.o
-steppmotor_move                                   ./src/SteppMotor.o
-steppmotor_pin                                    ./src/SteppMotor.o
-steppmotor_start_move                             ./src/SteppMotor.o
+stepmotor_move                                    ./src/StepMotor.o
+stepmotor_pin                                     ./src/StepMotor.o
+stepmotor_start_move                              ./src/StepMotor.o
                                                   ./src/PetFeeder.o
-steppmotor_timer                                  ./src/SteppMotor.o
-steps_control                                     ./src/SteppMotor.o
+stepmotor_timer                                   ./src/StepMotor.o
+steps_control                                     ./src/StepMotor.o
 strcat                                            /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcat.o)
                                                   ./src/Bluetooth.o
 strcpy                                            /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(strcpy.o)
@@ -2928,7 +2926,7 @@ strtok                                            /usr/local/mcuxpressoide-11.6.
 strtol                                            /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
 strtoul                                           /usr/local/mcuxpressoide-11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(scanf.o)
 timer_add_handler                                 ./src/TIMHandler.o
-                                                  ./src/SteppMotor.o
+                                                  ./src/StepMotor.o
                                                   ./src/PetFeeder.o
                                                   ./src/LoadCell.o
                                                   ./src/Keyboard.o

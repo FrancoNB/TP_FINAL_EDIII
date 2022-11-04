@@ -16,7 +16,7 @@ struct
 	uint8_t rx_pin;
 	uint8_t tx_pin;
 
-	uint8_t num;
+	uint8_t port_num;
 	uint8_t reserved[1];
 } bluetooth_uart;
 
@@ -239,7 +239,7 @@ void bluetooth_tx_dma_config(void)
 	bluetooth_dma.tx_channel_config.TransferWidth 	= 0;
 	bluetooth_dma.tx_channel_config.TransferType 	= GPDMA_TRANSFERTYPE_M2P;
 	bluetooth_dma.tx_channel_config.SrcConn 		= 0;
-	bluetooth_dma.tx_channel_config.DstConn 		= GPDMA_CONN_UART0_Tx + 2 * bluetooth_uart.num;
+	bluetooth_dma.tx_channel_config.DstConn 		= GPDMA_CONN_UART0_Tx + 2 * bluetooth_uart.port_num;
 	bluetooth_dma.tx_channel_config.DMALLI 			= (uint32_t)&bluetooth_dma.tx_lli;
 
 	GPDMA_Setup(&bluetooth_dma.tx_channel_config);
@@ -258,7 +258,7 @@ void bluetooth_rx_dma_config(void)
 	bluetooth_dma.rx_channel_config.TransferSize 	= RX_BUFFER_SIZE;
 	bluetooth_dma.rx_channel_config.TransferWidth 	= 0;
 	bluetooth_dma.rx_channel_config.TransferType 	= GPDMA_TRANSFERTYPE_P2M;
-	bluetooth_dma.rx_channel_config.SrcConn 		= GPDMA_CONN_UART0_Rx + 2 * bluetooth_uart.num;
+	bluetooth_dma.rx_channel_config.SrcConn 		= GPDMA_CONN_UART0_Rx + 2 * bluetooth_uart.port_num;
 	bluetooth_dma.rx_channel_config.DstConn 		= 0;
 	bluetooth_dma.rx_channel_config.DMALLI 			= (uint32_t)&bluetooth_dma.rx_lli;
 
@@ -286,25 +286,25 @@ void bluetooth_init(LPC_UART_TypeDef *uart, uint8_t rx_dma_channel)
 	{
 		bluetooth_uart.rx_pin = 3;
 		bluetooth_uart.tx_pin = 2;
-		bluetooth_uart.num = 0;
+		bluetooth_uart.port_num = 0;
 	}
 	else if(bluetooth_uart.LPC_uart == (LPC_UART_TypeDef*)LPC_UART1)
 	{
 		bluetooth_uart.rx_pin = 16;
 		bluetooth_uart.tx_pin = 15;
-		bluetooth_uart.num = 1;
+		bluetooth_uart.port_num = 1;
 	}
 	else if(bluetooth_uart.LPC_uart == LPC_UART2)
 	{
 		bluetooth_uart.rx_pin = 11;
 		bluetooth_uart.tx_pin = 10;
-		bluetooth_uart.num = 2;
+		bluetooth_uart.port_num = 2;
 	}
 	else if(bluetooth_uart.LPC_uart == LPC_UART3)
 	{
 		bluetooth_uart.rx_pin = 1;
 		bluetooth_uart.tx_pin = 0;
-		bluetooth_uart.num = 3;
+		bluetooth_uart.port_num = 3;
 	}
 
 	bluetooth_pin_config();

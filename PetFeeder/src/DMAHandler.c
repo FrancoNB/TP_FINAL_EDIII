@@ -18,9 +18,9 @@ static uint8_t dma_channel_status[DMA_TOTAL_CHANNELS] = {FREE};
 
 void DMA_IRQHandler (void)
 {
-	for (uint8_t channel = 0; channel < 8; channel++)
+	for(uint8_t channel = 0; channel < 8; channel++)
 	{
-		if (GPDMA_IntGetStatus(GPDMA_STAT_INT, channel))
+		if(GPDMA_IntGetStatus(GPDMA_STAT_INT, channel))
 		{
 			DMA_Result dma_result;
 
